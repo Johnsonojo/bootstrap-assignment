@@ -1,0 +1,61 @@
+.col i {
+  color: #a1a1b0;
+}
+
+.main-title h1 {
+  font-size: 44px !important;
+  color: #1e0e62;
+}
+
+.col-md-8 h4 {
+  font-weight: bold;
+  color: #1e0e62;
+  font-size: 35px;
+}
+
+.col-md-8 span {
+  font-weight: bold;
+  color: #a8a8b6;
+  font-size: 18px;
+}
+
+.col-md-8 .row-point-body {
+  font-size: 14px;
+}
+
+.row-point {
+  display: flex;
+  align-items: baseline;
+}
+
+.row-point h5 {
+  color: #1e0e62;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.col-md-8 i {
+  color: #1e0e62;
+  font-size: 18px;
+  font-weight: bold;
+  margin-right: 10px;
+}
+
+/* .col-8 h5 {
+  color: #1e0e62;
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 10px;
+} */
+
+.bottom-right {
+  background-color: black;
+  color: white;
+  height: 100px;
+}
+
+.bottom-left {
+  background-color: green;
+  color: white;
+  height: 100px;
+}
